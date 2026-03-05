@@ -2,9 +2,7 @@ Hi there 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on A Java Project
 - 🌱 I’m currently learning Backend Development
-- 💬 Ask me about Anything
 - 📫 How to reach me: Suyash.akki@gamil.com
 - 😄 Pronouns: he/him
 - ❤️ Love to solve DSA
